@@ -1,0 +1,614 @@
+Levels,Categories,Values
+,Worker,Software Developer
+,Worker,Developer
+,Worker,Senior Developer
+,Worker,Programmer
+,Worker,Senior software engineer
+,Worker,Software Engineer
+,Worker,Software Development Engineer
+,Worker,Senior Software Development Engineer
+,Worker,Software Design Engineer
+,Worker,Associate Software Engineer
+,Worker,full stack developer
+,Worker,Application Developer
+,Worker,App Developer
+,Worker,Application Development Analyst
+,Worker,App Programmer
+,Worker,Android Programmer
+,Worker,Computer Programmers
+,Worker,Systems analyst
+,Worker,System Analyst
+,Worker,Computer Systems Analyst
+,Worker,System Engineer
+,Worker,Systems Engineer
+,Worker,Assistant System Engineer
+,Worker,Web Developer
+,Worker,Java Developer
+,Worker,Android Developer
+,Worker,Network and Computer Systems Administrators
+,Worker,Network Engineer
+,Worker,Security Engineer
+,Worker,Information Security Engineer
+,Worker,Network Security Engineer
+,Worker,Quality Assurance
+,Worker,QA
+,Worker,QC
+,Worker,Quality Assurace Analyst
+,Worker,Quality Analyst
+,Worker,Test Engineer
+,Worker,Software Quality Assurance
+,Worker,Testers
+,Worker,Software Test Engineer
+,Worker,Test Analyst
+,Worker,Graphic Designer
+,Worker,Designer
+,Worker,Senior Designer
+,Worker,Senior Web designer
+,Worker,User Experience Designer
+,Worker,Senior Graphic Designer
+,Worker,Web Designer
+,Worker,Site Reliability Engineer
+,Worker,Technology Analyst
+,Worker,Process Associate
+,Worker,Business Process Associate
+,Worker,IT Admin
+,Worker,IT Administration
+,Worker,IT Support
+,Worker,Technical Specialist
+,Worker,Business Analyst
+,Worker,Analyst
+,Worker,BA
+,Worker,BI
+,Worker,Business Intelligence
+,Worker,Data Analyst
+,Worker,Functional Analyst
+,Worker,Business Intelligence Analyst
+,Worker,Insight Analyst
+,Worker,User Experience Researcher
+,Worker,UX Researcher
+,Worker,IT Business Analyst
+,Worker,Usability Analyst
+,Worker,Research Analyst
+,Worker,Agile Analyst
+,Worker,Market Researcher
+,Worker,Market Analyst
+,Worker,Senior Analyst
+,Worker,Senior Business Analyst
+,Worker,Market Research Analyst
+,Worker,Budget Analysts
+,Worker,Trade Analyst
+,Worker,Credit Analysts
+,Worker,Risk Analyst
+,Worker,Financial Analyst
+,Worker,Financial Risk Analyst
+,Worker,Investment Analyst
+,Worker,Technical Analyst
+,Worker,Network Security Analyst
+,Worker,Informaton Security Analyst
+,Worker,Data Scientist
+,Worker,Decision Scientist
+,Worker,Data Engineer
+,Worker,Big Data Engineer
+,Worker,Big Data Scientist
+,Worker,News Analyst
+,Worker,Senior Associate
+,Worker,Senior Executive
+,Worker,Management consultant
+,Worker,Analytics Consultant
+,Worker,Data Consultant
+,Worker,Business Development Consultant
+,Worker,Executive
+,Worker,Associate
+,Worker,Associate Consultant
+,Worker,Assistant Consultant
+,Worker,Sales Consultant
+,Worker,Marketing Consultant
+,Worker,Digital Marketing Consultant
+,Worker,Knowledge Management Consultant
+,Worker,Management Development Consultant
+,Worker,Business Information Consultant
+,Worker,Performance Consultant
+,Worker,Information Management Consultant
+,Worker,Solutions Consultant
+,Worker,Process Consultant
+,Worker,Service Consultant
+,Worker,Client Service Consultant
+,Worker,Building Consultant
+,Worker,Operations Consultant
+,Worker,Information Consultant
+,Worker,Real Estate Consultant
+,Worker,Talent Acquisition Consultant
+,Worker,Talent Management Consultant
+,Worker,Corporate Consultant
+,Worker,Technology Consultant
+,Worker,Professional Service Consultant
+,Worker,Quality Consultant
+,Worker,System Consultant
+,Worker,Website Consultant
+,Worker,Computer Consultant
+,Worker,Operations Management Consultant
+,Worker,Executive Management Consultant
+,Worker,Risk Consultant
+,Worker,Financial Consultant
+,Worker,Marketing
+,Worker,marketing executive
+,Worker,Growth Marketing
+,Worker,Product marketing
+,Worker,Marketing and Promotions
+,Worker,Brand Marketing
+,Worker,Brand Activation
+,Worker,Brand Strategy
+,Worker,Brand Strategist
+,Worker,Content
+,Worker,Content marketing
+,Worker,Content strategist
+,Worker,Content specialist
+,Worker,Content Writer
+,Worker,Demand Generation
+,Worker,Lead Generation
+,Worker,Marketing communications
+,Worker,Solutions marketing
+,Worker,Digital strategist
+,Worker,Online Marketing
+,Worker,Digital Marketing
+,Worker,Web strategist
+,Worker,Web strategy
+,Worker,Web marketing
+,Worker,Web marketing specialist
+,Worker,Internet marketing
+,Worker,Internet marketing specialist
+,Worker,Paid Search
+,Worker,Pay per click
+,Worker,SEM
+,Worker,SEM specialist
+,Worker,SEM executive
+,Worker,Search Engine marketing
+,Worker,SEO
+,Worker,SEO specialist
+,Worker,SEO executive
+,Worker,Search Engine Operation
+,Worker,Email marketer
+,Worker,Email marketing
+,Worker,Email marketing specialist
+,Worker,Ecommerce marketing
+,Worker,E-comm marketing
+,Worker,Ad words
+,Worker,Portfolio marketing
+,Worker,Digital Product Marketing
+,Worker,Social Media
+,Worker,Social Media Marketing
+,Worker,Social Media strategist
+,Worker,Social media editor
+,Worker,Community
+,Worker,Community Engagement
+,Worker,Engagement
+,Worker,Engagement Co-ordinator
+,Worker,Corporate Communications
+,Worker,Corporate Communications Specialist
+,Worker,Media relations co-ordinator
+,Worker,Media relations
+,Worker,Public relations
+,Worker,Publicity assistant
+,Worker,Multimedia Communications
+,Worker,Affiliate marketer
+,Worker,Affiliate marketing
+,Worker,Channel marketing
+,Worker,Partner outreach
+,Worker,Corporate partnership
+,Worker,Partner marketing advisor
+,Worker,Partnership
+,Worker,ATL/BTL
+,Worker,ATL marketing
+,Worker,BTL marketing
+,Worker,Sales
+,Worker,Sales Associate
+,Worker,Sales Executive
+,Worker,Sales operations
+,Worker,Sales officer
+,Worker,Sales operations coordinator
+,Worker,Advertising Sales Representative
+,Worker,B2B corporate sales
+,Worker,Direct Sales
+,Worker,Distribution Sales
+,Worker,Inside Sales
+,Worker,Outside Sales
+,Worker,Retail Sales
+,Worker,Franchise Development
+,Worker,Dealer
+,Worker,Enterprise Resource Planning
+,Worker,Tele calling executive
+,Worker,Sales
+,Worker,Account Representative
+,Worker,Account Sales
+,Worker,Account Executive
+,Worker,Channel Partner Sales
+,Worker,Customer Relations
+,Worker,Customer Representative
+,Worker,Customer Service Representative
+,Worker,Consumer Service
+,Worker,Costumer Service Agent
+,Worker,Support Specialist
+,Worker,Customer Advocate
+,Worker,Business Development
+,Worker,Business Development Executive
+,Worker,Business Development Associate
+,Worker,Civil Engineer
+,Worker,Mechanical Engineer
+,Worker,Electrical Engineer
+,Worker,Electronic Engineer
+,Worker,Engineer
+,Worker,Industrial Engineer
+,Worker,Staff Engineer
+,Worker,Technical Support Engineer
+,Worker,Senior Test Engineer
+,Worker,junior engineer
+,Worker,Product Engineer
+,Worker,Production Engineer
+,Worker,Service Engineer
+,Worker,Assistant Engineer
+,Worker,Senior Engineer
+,Worker,QA Engineer
+,Worker,Quality Assurance Engineer
+,Worker,Quality Engineer
+,Worker,Design Engineer
+,Worker,Senior Design Engineer
+,Worker,Technician
+,Worker,Accountant
+,Worker,Auditor
+,Worker,CA
+,Worker,Chartered Accountant
+,Worker,CS
+,Worker,Company Secretary
+,Worker,Property Appraiser
+,Worker,Accounts
+,Worker,Property Assessor
+,Worker,Bank cashier
+,Worker,Process Analyst
+,Worker,Operations
+,Worker,Business Process Solution
+,Worker,Operations Research Analyst
+,Worker,Operations Co-ordinator
+,Worker,Business Process Analyst
+,Worker,Business Operations Analyst
+,Worker,Operations Specialist
+,Worker,Operations Analyst
+,Worker,Ops Analyst
+,Worker,Operations Assistant
+,Worker,Operations Engineer
+,Worker,Operations Officer
+,Worker,Strategy and Operations
+,Worker,Business Operations Specialist
+,Worker,Operations Tech
+,Worker,Ops Officer
+,Worker,Inventory Clerk
+,Worker,Supply chain and Logistics Coordinator
+,Worker,SCL Coordinator
+,Worker,Supply chain and Logistics Transportation Specialist
+,Worker,SCL Specialist
+,Worker,Supply Chain and Logistics Sourcing Specialist
+,Worker,SCL Sourcing Specialist
+,Worker,Purchasing Agent
+,Worker,Buyer
+,Worker,Supply Chain Analyst
+,Worker,Supply Chain Business Analyst
+,Worker,Procurement Specialist
+,Worker,Warehouse Administrator
+,Worker,Transport Admininstrator
+,Worker,Logistics Administrator
+,Worker,Supply Chain Solutions Design Analyst
+,Worker,Supply Chain IT
+,Worker,Supply Chain consulting
+,Worker,Project Coordinator
+,Worker,Assistant Product Analyst
+,Worker,Product Analyst
+,Worker,Assistant Product Analyst
+,Worker,Senior Product Analyst
+,Worker,Lawyer
+,Worker,Advocate
+,Worker,Advisor
+,Worker,Teacher
+,Worker,High School Teacher
+,Worker,English Teacher
+,Worker,Biology Teacher
+,Worker,Science Teacher
+,Worker,Arts Teacher
+,Worker,Music Teacher
+,Worker,Special Educator
+,Worker,Professor
+,Worker,Associate Professor
+,Worker,Assistant Professor
+,Worker,Lecturer
+,Worker,graduate teaching assistant
+,Worker,Research
+,Worker,Research Associate
+,Worker,Research Scholar
+,Worker,Researcher
+,Worker,Scientist
+,Worker,HR
+,Worker,Human Resources
+,Worker,Human Resources Executive
+,Worker,Senior Executive Human Resources
+,Worker,Human Resources Recruiter
+,Worker,Operations
+,Worker,Member of Technical Staff
+,Worker,Specialist
+,Worker,Officer
+,Worker,fresher
+,Worker,internship
+,Worker,Trainer
+,Worker,Faculty
+,Worker,intern
+,Worker,Architect
+,Worker,Administrator
+,Worker,Trainee
+,Worker,technology sales representative
+,Worker,regional sales officer
+,Worker,technology sales specialist
+,Worker,Assistant
+,LM,Lead Software Engineer
+,LM,Technical Team Lead
+,LM,Technical Team Leader
+,LM,Senior Technical Lead
+,LM,Technical Manager
+,LM,Technology Lead
+,LM,IT Analyst
+,LM,Staff Software Engineer
+,LM,System Administrator
+,LM,Application Development Specialist
+,LM,senior system analyst
+,LM,Computer Network Support Specialists
+,LM,Computer User Support Specialists
+,LM,Computer Network Architects
+,LM,Test Lead
+,LM,Database Administrators
+,LM,Database Architects
+,LM,Solutions Architect
+,LM,Solution Architect
+,LM,Enterprise Architect
+,LM,Systems Architect
+,LM,Technical Architect
+,LM,Solutions Delivery Executive
+,LM,Lead Analyst
+,LM,Business Architect
+,LM,Business Systems Analyst
+,LM,Agile Business Analyst
+,LM,Senior financial analyst
+,LM,Business Consultant
+,LM,Consultant
+,LM,Senior Consultant
+,LM,Senior Associate Consultant
+,LM,Engagement Manager
+,LM,Implementation Consultant
+,LM,Project Manager Consultant
+,LM,Senior Technical Consultant
+,LM,Technical Consultant
+,LM,SAP Consultant
+,LM,SAP Technical Consultant
+,LM,ABAP Consultant
+,LM,Application Consultant
+,LM,Marketing Manager
+,LM,Brand Manager
+,LM,Social Media Marketing Manager
+,LM,Corporate Communications Manager
+,LM,Communications Manager
+,LM,Multimedia Communications Manager
+,LM,Branch Sales Manager
+,LM,Store Manager
+,LM,District Sales Manager
+,LM,Franchise Manager
+,LM,Sales Manager
+,LM,"sales, manager"
+,LM,Key Account Manager
+,LM,Account Manager
+,LM,Relationship Manager
+,LM,Business Development Manager
+,LM,Area Business Manager
+,LM,Project Engineer
+,LM,Senior Project Engineer
+,LM,Lead Engineer
+,LM,Technician Lead
+,LM,Senior Accountant
+,LM,Bank Manager
+,LM,Finance Manager
+,LM,Operations Manager
+,LM,Operations Lead
+,LM,Operations Supervisor
+,LM,Business Operations Manager
+,LM,Process Engineer
+,LM,Senior Process Engineer
+,LM,Ops Manager
+,LM,Operations Management Lead
+,LM,Ops Management Lead
+,LM,Strategy and Operations Lead
+,LM,Strategy and Ops lead
+,LM,Distribution Manager
+,LM,Supply Chain Manager
+,LM,Area Logistics Manager
+,LM,Logistics Operations Manager
+,LM,Transportation Logistics Manager
+,LM,Production Warehouse Manager
+,LM,Purchasing Manager
+,LM,Category Manager
+,LM,Procurement Manager
+,LM,Commodities Manager
+,LM,Strategic Sourcing Manager
+,LM,Logistics Manager
+,LM,Transport Manager
+,LM,Warehouse Manager
+,LM,Supply Chain Finance Management
+,LM,Project Manager
+,LM,Technical Project Manager
+,LM,Project Leader
+,LM,Project Lead
+,LM,Development Manager
+,LM,assistant project manager
+,LM,Program Manager
+,LM,Assistant Program Manager
+,LM,Deputy Program Manager
+,LM,Product Manager
+,LM,Assistant Product Manager
+,LM,Technical Product Manager
+,LM,Human Resource Manager
+,LM,Assistant Manager Human Resources
+,LM,Human Resources Generalist
+,LM,"human resources, manager"
+,LM,"manager, human resources"
+,LM,Assistant Manager
+,LM,Associate Manager
+,LM,Team Lead
+,LM,Team Leader
+,LM,Lead
+,LM,Manager
+,LM,Branch Manager
+,LM,Deputy Manager
+,LM,Area Managers
+,LM,DY Manager
+,LM,Team Manager
+,LM,supervisor
+,LM,senior specialist
+,LM,store and sales manager
+,LM,Module Lead
+,LM,Senior Technical Manager
+,LM,IT Manager
+,LM,Senior System Engineer
+,LM,Senior Software Developer
+,LM,Technical team Lead
+,LM,Technical Lead
+,LM,Technical Leader
+,LM,DevOps Engineer
+,LM,Service Delivery Manager
+,LM,IT Consultant
+,LM,Area Sales Manager
+,LM,Territory Sales Manager
+,LM,Territory Manager
+,LM,Group Sales Manager
+,LM,Regional Sales Manager
+,LM,Regional Sales Account Manager
+,LM,Regional Account Manager
+,LM,Engineering Manager
+,LM,Senior Engineering Manager
+,LM,Bank Branch Manager
+,LM,Senior Manager Business Operations
+,LM,Senior Manager Ops
+,LM,Head Business Operations
+,LM,Head Business Ops
+,LM,Delivery Manager
+,LM,Senior Project Manager
+,LM,Senior Program Manager
+,LM,Senior Product Manager
+,LM,Product Owner
+,LM,School Coordinator
+,LM,Academic Co-ordinator
+,LM,Human Resource Head
+,LM,Head Human Resources
+,LM,sales head
+,LM,Head
+,TM,CEO
+,TM,Chief Executive Officer
+,TM,Chief Technical Officer
+,TM,CTO
+,TM,Chief Technology Officer
+,TM,Chief Marketing Officer
+,TM,CMO
+,TM,Chief Operating Officer
+,TM,COO
+,TM,Chief Product Officer
+,TM,CPO
+,TM,Chief Financial Officer
+,TM,CFO
+,TM,Director
+,TM,Co Founder
+,TM,Owner
+,TM,Business Owner
+,TM,Director of Operations
+,TM,Director Product
+,TM,Managing Director
+,TM,General Manager
+,TM,Principal Consultant
+,TM,Sales Director
+,TM,Principal Engineer
+,TM,President
+,TM,Partner
+,TM,Founder
+,TM,Senior Officer
+,TM,Senior Director
+,TM,Chief Manager
+,TM,Associate Director
+,TM,executive director
+,TM,Entrepreneur
+,TM,Associate General Manager
+,TM,Assistant General Manager
+,TM,Managing Partner
+,TM,President
+,TM,Executive Assistant
+,TM,Human Resources Business Partner
+,Others,IT
+,Others,Information and Technology
+,Others,Information and Technology
+,Others,Outsourcing and Offshoring
+,Others,Subject Matter Expert
+,Others,SME
+,Others,Brand
+,Others,Campaign
+,Others,Judge
+,Others,Magistrates
+,Others,Adjudicators
+,Others,Magistrate Judges
+,Others,Paralegal
+,Others,Legal Secretaries
+,Others,Legal Assitants
+,Others,Legal Support Workers
+,Others,Fashion Designer
+,Others,Stylist
+,Others,Assitant Stylist
+,Others,Junior Stylist
+,Others,Junior Designer
+,Others,Interior Designer
+,Others,Jewellery Designer
+,Others,Doctor
+,Others,Medical Doctor
+,Others,Junior Doctor
+,Others,Physician
+,Others,Surgeon
+,Others,Surgery Specialist
+,Others,Pediatrecian
+,Others,Neurologist
+,Others,Psychiatrist
+,Others,Paramedic
+,Others,Nurse Practitioner
+,Others,Nurse Assistant
+,Others,Staff Nurse
+,Others,Anasthetist
+,Others,Radiologist
+,Others,Pharmacist
+,Others,Business
+,Others,Senior Member Of Technical Staff
+,Others,Student
+,MM,Principal Software Engineer
+,MM,Business Manager
+,MM,Business head
+,MM,Bank Chief Manager
+,MM,VP operations
+,MM,Vice President of Operations
+,MM,Operations Head
+,MM,General Manager Operations
+,MM,General Manager Ops
+,MM,VP Global Operations
+,MM,EVP Strategic Business operations
+,MM,VP Growth and Operations
+,MM,SVP Growth and Operations
+,MM,Group Product Manager
+,MM,VP of Product Management
+,MM,VP Product Management
+,MM,Principal
+,MM,Vice Principal
+,MM,Chancellor
+,MM,Vice-Chancellor
+,MM,Regional Manager
+,MM,Senior Manager
+,MM,Vice President
+,MM,Senior Vice President
+,MM,Assistant Vice President
+,MM,Associate Vice President
+,MM,Principal Sales Consultant
+,MM,vice president sales
