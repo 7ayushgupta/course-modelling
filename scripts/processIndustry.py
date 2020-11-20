@@ -19,7 +19,7 @@ def clean_string(string):
     string = string.replace("/", " ")
     return string
 
-def buildMajors(industry_raw):
+def buildIndustry(industry_raw):
     industry_ = "None"
     industry_raw = clean_string(industry_raw)
     for key, value in workers_mapping.items():
