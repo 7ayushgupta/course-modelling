@@ -23,7 +23,7 @@ level_classification = pd.read_csv('../static_data/level_mapping.csv')
     for index, row in level_classification.iterrows():
         level_mapping.update({row['granular_specialisation']: row['level']})
 
-def buildSpecialisation&Level(specialisation_raw):
+def buildLevel_Specialisation(specialisation_raw):
     if specialisation_raw == "None":
         processed_specialisation = "None"
         granular_specialisation = "None"
