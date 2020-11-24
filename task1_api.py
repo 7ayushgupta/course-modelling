@@ -6,7 +6,6 @@ import json
 import numpy as np
 import spacy
 from scripts.processMajors import buildMajors
-from scripts.processMinors import buildMinors
 from scripts.processIndustry import buildIndustry
 from scripts.processLevel_Specialisation import buildLevel_Specialisation
 
@@ -20,12 +19,9 @@ example_x_dict = {
 def createVector(x):
     x = json.loads(x)
     # x will be a dict consisting of all the features along with the entry
-    processedMajor = buildMajors(x["majors"]):
-    processedMinor = buildMinors(x["minors"]):
-    processedIndustry = buildIndustry(x["industry"]):
-    processedSpecialisation, processedLevel = buildLevel_Specialisation(x["speciaisation"]):
-
-
+    processedMajor = buildMajors(x["majors"])
+    processedIndustry = buildIndustry(x["industry"])
+    processedSpecialisation, processedLevel = buildLevel_Specialisation(x["speciaisation"])
     return person
 
 def getPrediction(vector):

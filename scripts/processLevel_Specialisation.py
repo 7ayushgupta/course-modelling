@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-r = pd.read_csv('../static_data/predicted_specialisation.csv')
+r = pd.read_csv('./static_data/predicted_specialisation.csv')
 r = r.set_index('Unnamed: 0')
 prettify_create_mapping = {}
 for i in r.index:
@@ -14,14 +14,14 @@ for i in r.index:
             prettify_create_mapping[i].append(val)
 already_done_ = prettify_create_mapping
 
-level_classification = pd.read_csv('../static_data/level_mapping.csv')
-    level_classification['Categories'] = level_classification['Categories'].fillna(method='ffill')
-    level_classification = level_classification.applymap(lambda s: s.lower() if type(s) == str else s)
-    level_classification = level_classification.drop('Levels', axis=1)
-    level_classification.columns = ['level', 'granular_specialisation']
-    level_mapping = {}
-    for index, row in level_classification.iterrows():
-        level_mapping.update({row['granular_specialisation']: row['level']})
+level_classification = pd.read_csv('./static_data/level_mapping.csv')
+level_classification['Categories'] = level_classification['Categories'].fillna(method='ffill')
+level_classification = level_classification.applymap(lambda s: s.lower() if type(s) == str else s)
+level_classification = level_classification.drop('Levels', axis=1)
+level_classification.columns = ['level', 'granular_specialisation']
+level_mapping = {}
+for index, row in level_classification.iterrows():
+    level_mapping.update({row['granular_specialisation']: row['level']})
 
 def buildLevel_Specialisation(specialisation_raw):
     if specialisation_raw == "None":

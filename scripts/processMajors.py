@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-r = pd.read_csv('../static_data/majors_mapping.csv')
+r = pd.read_csv('./static_data/majors_mapping.csv')
 r = r.set_index('Unnamed: 0')
 prettify_create_mapping = {}
 for i in r.index:
