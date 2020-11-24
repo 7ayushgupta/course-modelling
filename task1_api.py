@@ -8,7 +8,7 @@ import spacy
 from scripts.processMajors import buildMajors
 from scripts.processIndustry import buildIndustry
 from scripts.processLevel_Specialisation import buildLevel_Specialisation
-
+from scripts.processCourse_Name import buildCourse_Name
 #assume input is of the following
 example_x_dict = {
     "majors": "mechanical engineering",
@@ -22,6 +22,7 @@ def createVector(x):
     processedMajor = buildMajors(x["majors"])
     processedIndustry = buildIndustry(x["industry"])
     processedSpecialisation, processedLevel = buildLevel_Specialisation(x["speciaisation"])
+    processedCourseName= buildCourse_Name(x["course_name"])
     return person
 
 def getPrediction(vector):
